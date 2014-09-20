@@ -1,0 +1,6 @@
+[ClassVersion("1.0.0"), FriendlyName("rsWebPlatformInstaller")]
+class RS_rsWebPlatformInstaller : OMI_BaseResource
+{
+[key] array Modulelist;
+[write,ValueMap{"Present", "Absent"},Values{"Present", "Absent"}] string Ensure;
+};

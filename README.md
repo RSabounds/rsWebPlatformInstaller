@@ -1,4 +1,8 @@
-rsWebPlatformInstaller
-======================
 
-WebPlatformInstaller Module installation DSC module
+rsWebPlatformInstaller
+=======================
+
+
+RELEASE v0.0.1
+
+Initial build of Module
